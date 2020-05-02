@@ -1,0 +1,19 @@
+{
+  "name": "fastify-protype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fastify": "^2.14.0",
+    "should": "^13.2.3"
+  },
+  "devDependencies": {
+    "tap": "^14.10.7"
+  },
+  "scripts": {
+    "dev": "node app.js",
+    "test": "tap"
+  },
+  "author": "",
+  "license": "ISC"
+}
